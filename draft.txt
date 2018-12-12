@@ -1,0 +1,21 @@
+VnPy Starter Guide
+Vn.py -a  Python-based algo-trading development framework
+VnPy is an algorithmic trading development framework, with a bunch of awesome features:
+completely open-source
+written in Python
+with an active community of more than 5000 people
+
+Nonetheless, you probably never heard about it before. This is because of the fourth awesome feature:
+the community is mostly Chinese-based and Chinese-speaking
+
+The VnPy project was started in 2015 in Shanghai by the first generation of options traders in China. It has grown ever since to a terrific open-source project that legitimately created the biggest and most active algo-traders community in China. This serie of guides will be an effort to make this vast amount of knowledge available to the english speaking community, in a structured and organized way.
+
+Why should you choose VnPy over other algo-trading frameworks?
+
+What are the current resources avaliable online regarding VnPy?
+
+- GitHub repository, with the complete codebase
+- official website, (in chinese)
+- QQ Group, a chinese telegram group with incredibily active members
+- vnpie.com, old-style bulletin forum in Chinese about VnPy
+- ZhiHu page of VnPy project founder, a chinese Quora platform with questions and answers about VnPy

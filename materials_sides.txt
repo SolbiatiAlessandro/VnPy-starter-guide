@@ -1,0 +1,33 @@
+Python-based open source quantitative trading program development framework
+
+Autonomous quantitative trading system originating from domestic private equity
+
+Main users: private equity funds, brokerage self-employed and asset management, futures asset management and subsidiaries, university research institutions and professional individual investors, etc.
+
+Currently ranked third in the world (Github Star)
+
+
+Born for traders: By Traders, For Traders.
+
+Taking the firm's real trading as the core entry point: the difference between TuShare and RQAlpha
+
+Open source code: only can't think of it, can't do it
+
+
+Standardized interface function design, with the fewest functions to achieve the most common functions
+
+Active functions: connect, disconnect, subscribe to quotes, delegate, withdraw orders, query positions, query funds
+
+Callback function: contract information push, quote push, commission and deal push, position and fund push
+
+Facilitate trader users to add unsupported low-level interfaces
+
+
+
+Contradiction to the source code:
+Hope to have source code to ensure security and flexibility
+At the same time, I hope that I can use it out of the box, I don’t want to study various details.
+
+Emphasis on flexibility:
+Market competition is fierce, trading strategies are changing more and more
+Importance: Human efficiency >> Machine efficiency
